@@ -1,20 +1,7 @@
 {
- "generated": "2026-08-23 23:00",
- "today": "2026-08-23",
+ "generated": "2026-08-24 23:00",
+ "today": "2026-08-24",
  "next": [
-  {
-   "qid": "Q11405696",
-   "name": "千灯籠まつり",
-   "pref": "長崎県",
-   "start": "2026-08-23",
-   "end": "2026-08-24",
-   "rule": "毎年8月23日〜8月24日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%83%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q17221872",
    "name": "牧山の松明",
@@ -157,6 +144,19 @@
    "slug_en": "kakunodate-no-omatsuri",
    "name_en": "Kakunodate Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E3%81%AE%E3%81%8A%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11414198",
+   "name": "吉祥寺秋まつり",
+   "pref": "",
+   "start": "2026-09-12",
+   "end": "",
+   "rule": "毎年9月第2土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Kichijoji Autumn Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   }
  ],
  "annual": [
