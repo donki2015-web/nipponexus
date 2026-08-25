@@ -1,20 +1,7 @@
 {
- "generated": "2026-08-24 23:00",
- "today": "2026-08-24",
+ "generated": "2026-08-25 23:00",
+ "today": "2026-08-25",
  "next": [
-  {
-   "qid": "Q17221872",
-   "name": "牧山の松明",
-   "pref": "京都府",
-   "start": "2026-08-24",
-   "end": "",
-   "rule": "毎年8月24日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B1%B1%E3%81%AE%E6%9D%BE%E6%98%8E"
-  },
   {
    "qid": "Q11413521",
    "name": "吉田の火祭",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "Kichijoji Autumn Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q67704099",
+   "name": "放生会",
+   "pref": "福岡県",
+   "start": "2026-09-12",
+   "end": "2026-09-18",
+   "rule": "毎年9月12日〜9月18日",
+   "conf": "fixed_rule",
+   "slug": "hojoya",
+   "slug_en": "hojoya",
+   "name_en": "Hōjōya",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E4%BC%9A_(%E7%AD%A5%E5%B4%8E%E5%AE%AE)"
   }
  ],
  "annual": [
