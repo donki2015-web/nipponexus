@@ -1,33 +1,7 @@
 {
- "generated": "2026-08-28 23:00",
- "today": "2026-08-28",
+ "generated": "2026-08-29 23:00",
+ "today": "2026-08-29",
  "next": [
-  {
-   "qid": "Q21654102",
-   "name": "沼田町夜高あんどん祭り",
-   "pref": "北海道",
-   "start": "2026-08-28",
-   "end": "",
-   "rule": "毎年8月第4金曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Numata Yotaka Andon Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%94%B0%E7%94%BA%E5%A4%9C%E9%AB%98%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E7%A5%AD%E3%82%8A"
-  },
-  {
-   "qid": "Q65236261",
-   "name": "むらやま徳内まつり",
-   "pref": "山形県",
-   "start": "2026-08-28",
-   "end": "",
-   "rule": "毎年8月第4金曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Murayama Tokunai Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q720663",
    "name": "浅草サンバカーニバル",
@@ -157,6 +131,32 @@
    "slug_en": "okuma-kabuto-festival",
    "name_en": "Okuma Kabuto Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E7%86%8A%E7%94%B2%E7%A5%AD"
+  },
+  {
+   "qid": "Q4947265",
+   "name": "藤崎八旛宮秋季例大祭",
+   "pref": "熊本県",
+   "start": "2026-09-21",
+   "end": "",
+   "rule": "毎年9月第3月曜日",
+   "conf": "rule_only",
+   "slug": "fujisaki-hachimangu-reitaisai",
+   "slug_en": "fujisaki-hachimangu-reitaisai",
+   "name_en": "Boshita Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E5%85%AB%E6%97%9B%E5%AE%AE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD"
+  },
+  {
+   "qid": "Q11400381",
+   "name": "勝浦大漁まつり",
+   "pref": "千葉県",
+   "start": "2026-09-21",
+   "end": "",
+   "rule": "毎年9月第3月曜日",
+   "conf": "rule_only",
+   "slug": "katsuura-autumn-festival",
+   "slug_en": "katsuura-autumn-festival",
+   "name_en": "Katsuura Autumn Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B5%A6%E5%A4%A7%E6%BC%81%E3%81%BE%E3%81%A4%E3%82%8A"
   }
  ],
  "annual": [
