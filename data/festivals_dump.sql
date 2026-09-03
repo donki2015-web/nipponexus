@@ -39278,6 +39278,8 @@ CREATE TABLE publish_queue(
 INSERT INTO "publish_queue" VALUES('Q3461576','Todaiji','apply','同名別実体の疑い/岡山県');
 INSERT INTO "publish_queue" VALUES('Q844110','Kofukuji','apply','同名別実体の疑い/None');
 INSERT INTO "publish_queue" VALUES('Q11678183','Yamadera','reject','PLACENAME_v2: 正典側情報(Yamagata/山形/alias)が本文に皆無 + JA_SUFFIX,EN_SUFFIX,LOCAL_COMPOUND');
+CREATE TABLE skip_ledger(qid TEXT PRIMARY KEY, reason TEXT, source TEXT, created_at TEXT, resolved_at TEXT, note TEXT);
+INSERT INTO "skip_ledger" VALUES('Q11255045','log由来の恒久除外を移送','nxskip_log_migration_20260903','2026-09-03T18:22:54',NULL,'21日窓の自然復帰を止めるため台帳化');
 DELETE FROM "sqlite_sequence";
 INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 INSERT INTO "sqlite_sequence" VALUES('hold_queue',332);
